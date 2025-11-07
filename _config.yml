@@ -3,4 +3,6 @@ logo: /assets/img/logo.png
 description: Material composition is a repository of ideas and techniques that explore materiality through modal synthesis. It has been developed by Emiddio Vasquez as part of his PhD research.
 show_downloads: true
 google_analytics:
-theme: minimal
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-remote-theme
